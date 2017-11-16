@@ -28,19 +28,19 @@ Using a nice GPU is heavily recommended.
 
 ### Results
 
-###### Autoencoding images in a train set
+##### Autoencoding images in a train set
 
 ![train](https://user-images.githubusercontent.com/1303549/32910397-720817cc-cb4c-11e7-988a-4586253b9083.jpg)
 
-###### Autoencoding images in a test set
+##### Autoencoding images in a test set
 
 ![test](https://user-images.githubusercontent.com/1303549/32910393-6b5d6ee0-cb4c-11e7-9849-0bccdc9ec20f.jpg)
 
-###### Generating images from a randomly sampled latent vector
+##### Generating images from a randomly sampled latent vector
 
 ![random](https://user-images.githubusercontent.com/1303549/32910657-2eb3dfb4-cb4d-11e7-8326-dc1a0e1c23d2.jpg)
 
-###### Interpolating conditions
+##### Interpolating conditions
 
 Hanayo to Rin
 
