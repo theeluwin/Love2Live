@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# love2live
+images/
+faces/
+results/
+pts/
+.DS_Store
